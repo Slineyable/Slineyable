@@ -1,0 +1,3 @@
+- 👋 Hi, I’m John Sliney
+- 👀 I’m interested in Back End and Database
+- 🌱 I’m currently learning C#, Python, JavaScript
